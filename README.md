@@ -66,8 +66,8 @@ I love cleaning, exploring and modeling data to turn raw information into action
 
 ## 📫 Connect with me
 - GitHub: [riadhajji1-creator](https://github.com/riadhajji1-creator)  
-- LinkedIn: *(add your LinkedIn link here)*  
-- Email: *(add your email if you want)*  
+-  
+- Email: *(Riad.hajji1@gmail.com)*  
 
 <!--
 **riadhajji1-creator/riadhajji1-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
