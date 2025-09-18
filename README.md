@@ -27,10 +27,6 @@ I love cleaning, exploring and modeling data to turn raw information into action
 <p>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-d1110B.svg?logo=docker&logoColor=white"></a>
-    <a href="#"><img alt="Scikit-Learn" src="https://img.shields.io/badge/ScikitLearn-b7569B.svg?logo=scikit-learn&logoColor=white"></a>
-    <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=streamlit&logoColor=white"></a>
-    <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white"></a>
     <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-3b4c9b.svg?logo=seaborn&logoColor=white"></a>
     <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C.svg?logo=matplotlib&logoColor=white"></a>
     <a href="#"><img alt="Requests" src="https://img.shields.io/badge/Requests-2A6DB0.svg?logo=python&logoColor=white"></a>
